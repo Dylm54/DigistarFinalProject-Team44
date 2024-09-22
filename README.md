@@ -1,8 +1,6 @@
-# React + Vite
+# Team 44 Digistar Final Project BigBox HelpDesk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hasil Project ini baru Slicing dari UI/UX Design yang telah dibuat oleh Tim Hipster
+Berikut link Figma: https://www.figma.com/design/b4kA5qu1JRHBSVH2WmkbF5/Helpdesk-for-Users---Project-Team-44?node-id=1-1112&t=sKlCFrEBIbJtIY9L-1)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project ini belum ada Backendnya, jadi hanya hasil Slicing dari design yang telah dibuat.
